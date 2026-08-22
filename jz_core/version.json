@@ -1,4 +1,4 @@
 {
-    "version": "1.0.0",
-    "changelog": "Initial release"
+    "version": "1.0.1",
+    "changelog": "Added jz_inventory and jz_notify compatibility"
 }
