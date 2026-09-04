@@ -1,4 +1,4 @@
 {
-    "version": "1.0.1",
-    "changelog": "Added jz_inventory and jz_notify compatibility"
+    "version": "1.0.2",
+    "changelog": "Added jz_stables and jz_loadingscreen compatibility"
 }
